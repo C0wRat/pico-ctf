@@ -1,5 +1,3 @@
-# pico-ctf
-
 # Pico-CTF Solutions Repository
 
 This repository contains solutions to various Capture the Flag (CTF) challenges related to Pico-CTF. 
